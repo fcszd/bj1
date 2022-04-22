@@ -1,0 +1,7 @@
+D:\学习\作业\大一下期\C#\ConsoleApp 1\bin\Debug\ConsoleApp 1.exe.config
+D:\学习\作业\大一下期\C#\ConsoleApp 1\bin\Debug\ConsoleApp 1.exe
+D:\学习\作业\大一下期\C#\ConsoleApp 1\bin\Debug\ConsoleApp 1.pdb
+D:\学习\作业\大一下期\C#\ConsoleApp 1\obj\Debug\ConsoleApp 1.csproj.AssemblyReference.cache
+D:\学习\作业\大一下期\C#\ConsoleApp 1\obj\Debug\ConsoleApp 1.csproj.CoreCompileInputs.cache
+D:\学习\作业\大一下期\C#\ConsoleApp 1\obj\Debug\ConsoleApp 1.exe
+D:\学习\作业\大一下期\C#\ConsoleApp 1\obj\Debug\ConsoleApp 1.pdb
